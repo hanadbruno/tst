@@ -7,6 +7,9 @@ public class RomanNumbers {
            for (int x = 0; x < i ; x++) {
 
                romanLiterals += "I";
+               if(romanLiterals == "IV"){
+
+               }
            }
 
            return romanLiterals;
